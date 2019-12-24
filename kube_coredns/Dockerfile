@@ -1,1 +1,1 @@
-from k8s.gcr.io/coredns:v1.17.0 as kube-coredns
+from k8s.gcr.io/coredns:1.6.5 as kube-coredns
